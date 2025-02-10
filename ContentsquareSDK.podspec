@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.summary = 'Contentsquare iOS SDK'
     s.homepage = 'https://docs.contentsquare.com/ios'
     s.author = { 'Contentsquare' => 'contact@contentsquare.com' }
-    s.source = { :http => "https://github.com/ContentSquare/apple-sdk/releases/download/#{s.version}/package.zip", :type => 'zip' }
+    s.source = { :http => "https://github.com/Contentsquare-Presales/apple-sdk/releases/download/#{s.version}/package.zip", :type => 'zip' }
     s.license = { :type => 'COMMERCIAL', :text => <<-LICENSE
                     The Content Square iOS SDK License 1.0
                         (c) Content Square SAS 2023
